@@ -97,6 +97,8 @@
         left: -60%;
         border-radius: 4px;
         width: max-content;
+        text-wrap: nowrap;
+        max-width: 140px;
 
         &::after {
           content: '';
