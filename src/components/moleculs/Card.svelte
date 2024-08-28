@@ -63,6 +63,7 @@
       align-items: center;
       padding: 24px;
       row-gap: 28px;
+      max-width: 100%;
 
       .text {
         text-align: center;
